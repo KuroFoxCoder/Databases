@@ -1,2 +1,6 @@
-# Databases
-An example of database manipulation using Java, through MySQL
+# Video
+Here
+# Thought Process
+Here
+# Challenges
+So, full disclosure, I tried looking into this before the thanksgiving break and I didn't really understand SQL, or any of the code in the lecture. I decided to take a break during the week-long break, and when I came back to it, I decided to run the practice lab. That's when everything clicked for me. The code looked complex to me at first, but then I saw that the statements I had to write in Java code were just things I wrote in SQL. I realized then that I would just have to tell Java to do the things I did in the practice lab.
